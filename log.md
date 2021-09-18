@@ -63,7 +63,7 @@
 
   **Today's Progress**:
   - Completed the hour and a half of the "Algorithms and Data Structures - Full Course for Beginners from Treehouse"
-  - Made it to the 15% completion mark on the "Learning JavaScript For Free" Scrimba course.
+  - Made it to the 13% completion mark on the "Learning JavaScript For Free" Scrimba course.
 
   **Thoughts:**
 
