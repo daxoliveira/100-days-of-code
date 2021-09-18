@@ -67,7 +67,7 @@
 
   **Thoughts:**
 
-  *"There's a reason this challenge has gotten such a respectfull reputation, I'm hooked and finally feel like I'm being consitent instead of reactive with my coding skill building process."*
+  *"There's a reason this challenge has gotten such a respectful reputation, I'm hooked and finally feel like I'm being consistent instead of reactive with my coding skill building process."*
 
   **Link(s) to work:** 
   - [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0?t=5685)
