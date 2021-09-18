@@ -1,30 +1,76 @@
-# 100 Days Of Code - Log
+## 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<details>
+  <summary>
+    Day 1: Tuesday, September 14th, 2021
+  </summary>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+  **Today's Progress**:
+  - Started working on my "Learning JavaScript For Free" Scrimba course.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+  **Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+  *"I've decided to start this challenge for the second time around, and this time it's going a little better. I've decided to focus on consistency rather than conding to impressed, which is why I thought a simpler course would be a better option."*
 
 
-### Day 1: June 27, Monday
+  **Link to work:** 
+  - [Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+</details>
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+<br>
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<details>
+  <summary>
+    Day 2: Wednesday, September 15th, 2021
+  </summary>
+
+  **Today's Progress**: 
+  - Made it to the 10% completion mark on the "Learning JavaScript For Free" Scrimba course.
+
+  **Thoughts:** 
+
+  *"Consistency, consistency, consistency! This is what I'm striving for with this challenge."*
+
+
+  **Link to work:** 
+  - [Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+    Day 3: Thursday, September 16th, 2021
+  </summary>
+
+  **Today's Progress**:
+  - Worked on some HackerRank tests and updating my GitHub Profile.
+
+  **Thoughts:** 
+
+  *"This is the momment I was already expecting, no matter how simple or complicated the challenge is, I tend to get bored with it after a couple of days. I started working on something else such as HackerRank certification tests or updating my GitHub page, and this is where I thought this #100DaysOfCode public commitment would come in handy...it's time to get back to it and finish what I started, see you tomorrow Scrimba."*
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+    Day 4: Friday, September 17th, 2021
+  </summary>
+
+  **Today's Progress**:
+  - Completed the hour and a half of the "Algorithms and Data Structures - Full Course for Beginners from Treehouse"
+  - Made it to the 15% completion mark on the "Learning JavaScript For Free" Scrimba course.
+
+  **Thoughts:**
+
+  *"There's a reason this challenge has gotten such a respectfull reputation, I'm hooked and finally feel like I'm being consitent instead of reactive with my coding skill building process."*
+
+  **Link(s) to work:** 
+  - [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0?t=5685)
+  - [Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
+
+</details>
